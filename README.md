@@ -1,5 +1,10 @@
 # Stock Market Dashboard
 
+
+
+URL : https://omkarnikam222-stockmarketdashboard-app-rlzryv.streamlit.app/
+
+
 An end-to-end mini data engineering + visualization project in Python.
 
 You start with a messy CSV of daily stock data and finish with an interactive Streamlit dashboard that shows price trends, sector breakdowns, risk/return profiles, and multi-ticker comparisons — all powered by a reproducible data pipeline.
